@@ -1,0 +1,73 @@
+{
+  "mainTitle": "పెద్దబాలశిక్ష",
+  "data": [
+    {
+      "tlessonName": "అచ్చులు",
+      "elessonName": "Achulu",
+      "lessonImageUrl": "",
+      "orderNumber": "",
+      "destinationViewData": {
+        "content": "",
+        "contentTitle": "",
+        "contentMeaning": "",
+        "contentMeaningTitle": "",
+        "contentImageUrl": "",
+        "lessons": {
+          "listType": "",
+          "lessonsPageRowModel": {}
+        }
+      }
+    },
+    {
+      "tlessonName": "హల్లులు",
+      "elessonName": "Hallulu",
+      "lessonImageUrl": "",
+      "orderNumber": "",
+      "destinationViewData": {
+        "content": "",
+        "contentTitle": "",
+        "contentMeaning": "",
+        "contentMeaningTitle": "",
+        "contentImageUrl": "",
+        "lessons": {
+          "listType": "",
+          "lessonsPageRowModel": {}
+        }
+      }
+    },
+    {
+      "tlessonName": "కథలు",
+      "elessonName": "Kadhalu",
+      "lessonImageUrl": "",
+      "orderNumber": "",
+      "destinationViewData": {
+        "content": "",
+        "contentTitle": "",
+        "contentMeaning": "",
+        "contentMeaningTitle": "",
+        "contentImageUrl": "",
+        "lessons": {
+          "listType": "",
+          "lessonsPageRowModel": {}
+        }
+      }
+    },
+    {
+      "tlessonName": "పద్యాలు",
+      "elessonName": "Padhyalu",
+      "lessonImageUrl": "",
+      "orderNumber": "",
+      "destinationViewData": {
+        "content": "",
+        "contentTitle": "",
+        "contentMeaning": "",
+        "contentMeaningTitle": "",
+        "contentImageUrl": "",
+        "lessons": {
+          "listType": "",
+          "lessonsPageRowModel": {}
+        }
+      }
+    }
+  ]
+}
