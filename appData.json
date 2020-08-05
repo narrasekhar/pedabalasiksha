@@ -41,11 +41,11 @@
       "lessonImageUrl": "",
       "orderNumber": "",
       "destinationViewData": {
-        "content": "",
-        "contentTitle": "",
-        "contentMeaning": "",
-        "contentMeaningTitle": "",
-        "contentImageUrl": "",
+        "content": "Test Story",
+        "contentTitle": "కథ",
+        "contentMeaning": "Test Story Meaning",
+        "contentMeaningTitle": "నీతి",
+        "contentImageUrl": "iKadalu",
         "lessons": {
           "listType": "",
           "lessonsPageRowModel": {}
