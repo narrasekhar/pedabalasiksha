@@ -48,7 +48,28 @@
         "contentImageUrl": "iKadalu",
         "lessons": {
           "listType": "",
-          "lessonsPageRowModel": {}
+          "lessonsPageRowModel": {
+            "mainTitle": "పెద్దబాలశిక్ష",
+            "data": [
+              {
+                "tlessonName": "అచ్చులు",
+                "elessonName": "Achulu",
+                "lessonImageUrl": "",
+                "orderNumber": "",
+                "destinationViewData": {
+                  "content": "",
+                  "contentTitle": "",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              }
+            ]
+          }
         }
       }
     },
