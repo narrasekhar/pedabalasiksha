@@ -79,10 +79,10 @@
       "lessonImageUrl": "",
       "orderNumber": "",
       "destinationViewData": {
-        "content": "",
-        "contentTitle": "",
-        "contentMeaning": "",
-        "contentMeaningTitle": "",
+        "content": "Test Padyam",
+        "contentTitle": "పద్యం",
+        "contentMeaning": "Test Padyam Meaning",
+        "contentMeaningTitle": "తాత్పర్యం",
         "contentImageUrl": "",
         "lessons": {
           "listType": "",
