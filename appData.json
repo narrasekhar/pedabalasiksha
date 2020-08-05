@@ -7,7 +7,7 @@
       "lessonImageUrl": "iachulu",
       "orderNumber": "1",
       "destinationViewData": {
-        "content": "అ   ఆ   ఇ   ఈ   ఉ   ఊ   ఋ   ఋూ   ఌ   ౡ   ఎ   ఏ   ఐ   ఒ   ఓ   ఔ   అఁ   అం   అః\n\nఅచ్చులు మొత్తం పదహారు(16)",
+        "content": "అ   ఆ   ఇ   ఈ   ఉ   ఊ   ఋ   ఋూ   ఌ   ౡ   ఎ   ఏ   ఐ   ఒ   ఓ   ఔ   అఁ   అం   అః\nఅచ్చులు మొత్తం పదహారు(16)",
         "contentTitle": "అచ్చులు",
         "contentMeaning": "అ:\t\tఅల, అందం, అర\nఆ:\t\tఆట, ఆలయం, ఆడ\nఇ:\t\tఇలా, ఇవతల, ఇల్లు\nఈ:\t\tఈగ, ఈత, ఈల\nఉ:\t\tఉడుత, ఉంగరం, ఉచితం\nఊ:\t\tఊక, ఊయల, ఊహ\nఋ:\t\tఋషి\nఎ:\t\tఎద, ఎచట\nఏ:\t\tఏడు, ఏకం\nఐ:\t\tఐదు, ఐసు\nఒ:\t\tఒక, ఒరే\nఓ:\t\tఓడ, ఓటమి\nఔ:\t\tఔర, ఔషధం\nఅం:\t\tఅంకె\nఅః:\t\tఅంతఃపురం",
         "contentMeaningTitle": "పదాలు",
@@ -21,10 +21,10 @@
       "lessonImageUrl": "ihallulu",
       "orderNumber": "2",
       "destinationViewData": {
-        "content": "క   ఖ   గ   ఘ   ఙ\nచ   ౘ   ఛ   జ   ౙ   ఝ   ఞ\nట   ఠ   డ   ఢ   ణ\nత   థ   ద   ధ   న\nప   ఫ   బ   భ   మ\nయ   ర   ల   వ   శ   ష   స   హ   ళ   క్ష   ఱ",
+        "content": "క   ఖ   గ   ఘ   ఙ\nచ   ౘ   ఛ   జ   ౙ   ఝ   ఞ\nట   ఠ   డ   ఢ   ణ\nత   థ   ద   ధ   న\nప   ఫ   బ   భ   మ\nయ   ర   ల   వ   శ   ష   స   హ   ళ   క్ష   ఱ\nహల్లులు మొత్తం ముప్పైయెనిమిది(38)",
         "contentTitle": "హల్లులు",
         "contentMeaning": "హల్లులు మొత్తం ముప్పైయెనిమిది(38)",
-        "contentMeaningTitle": "మంచి మాట",
+        "contentMeaningTitle": "పదాలు",
         "contentImageUrl": "",
         "lessons": {}
       }
@@ -51,7 +51,7 @@
                 "lessonImageUrl": "kaGunimtam",
                 "orderNumber": "2",
                 "destinationViewData": {
-                  "content": "తలకట్టు:\t\tఅ\t+\tక\t=\tక\nదీర్ఘం:\t\t\tఆ\t+\tక\t=\tకా\nగుడి:\t\t\tఇ\t+\tక\t=\tకి\nగుడిదీర్ఘం:\t\tఈ\t+\tక\t=\tకీ\nకొమ్ము:\t\t\tఉ\t+\tక\t=\tకు\nకొమ్ముదీర్ఘం:\tఊ\t+\tక\t=\tకూ\nసుడి:\tఋ\t+\tక\t=\tకృ\nసుడిదీర్ఘం:\tఋూ\t+\tక\t=\tకౄ\n\t\tఌ\t+\tక\t=\tకౢ\n\t\tౡ\t+\tక\t=\tకౣ\nఎత్వం:\tఎ\t+\tక\t=\tకె\nఏత్వం:\tఏ\t+\tక\t=\tకే\nఐత్వం:\tఐ\t+\tక\t=\tకై\nఒత్వం:\tఒ\t+\tక\t=\tకొ\nఓత్వం:\tఓ\t+\tక\t=\tకో\nఔత్వం:\tఔ\t+\tక\t=\tకౌ\nఅర సున్నా:\tఅఁ\t+\tక\t=\tకఁ\nపుర్ణానుస్వారం:\tఅం\t+\tక\t=\tకం\nవిసర్గం:\tఅః\t+\tక\t=\tకః",
+                  "content": "తలకట్టు:\t\tఅ\t+\tక\t=\tక\nదీర్ఘం:\t\t\tఆ\t+\tక\t=\tకా\nగుడి:\t\t\tఇ\t+\tక\t=\tకి\nగుడిదీర్ఘం:\t\tఈ\t+\tక\t=\tకీ\nకొమ్ము:\t\t\tఉ\t+\tక\t=\tకు\nకొమ్ముదీర్ఘం:\t\tఊ\t+\tక\t=\tకూ\nసుడి:\t\t\tఋ\t+\tక\t=\tకృ\nసుడిదీర్ఘం:\t\tఋూ\t+\tక\t=\tకౄ\n\t\t\t\tఌ\t+\tక\t=\tకౢ\n\t\t\t\tౡ\t+\tక\t=\tకౣ\nఎత్వం:\t\t\tఎ\t+\tక\t=\tకె\nఏత్వం:\t\t\tఏ\t+\tక\t=\tకే\nఐత్వం:\t\t\tఐ\t+\tక\t=\tకై\nఒత్వం:\t\t\tఒ\t+\tక\t=\tకొ\nఓత్వం:\t\t\tఓ\t+\tక\t=\tకో\nఔత్వం:\t\t\tఔ\t+\tక\t=\tకౌ\nఅర సున్నా:\t\t\tఅఁ\t+\tక\t=\tకఁ\nపుర్ణానుస్వారం:\t\tఅం\t+\tక\t=\tకం\nవిసర్గం:\t\t\tఅః\t+\tక\t=\tకః",
                   "contentTitle": "క గుణింతం",
                   "contentMeaning": "",
                   "contentMeaningTitle": "",
