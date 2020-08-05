@@ -84,10 +84,7 @@
         "contentMeaning": "Test Padyam Meaning",
         "contentMeaningTitle": "తాత్పర్యం",
         "contentImageUrl": "",
-        "lessons": {
-          "listType": "",
-          "lessonsPageRowModel": {}
-        }
+        "lessons": {}
       }
     }
   ]
