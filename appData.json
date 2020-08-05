@@ -1,82 +1,16 @@
 {
-  "mainTitle": "పెద్దబాలశిక్ష",
+  "mainTitle": "పెద్ద బాలశిక్ష",
   "data": [
     {
       "tlessonName": "అచ్చులు",
       "elessonName": "Achulu",
       "lessonImageUrl": "iachulu",
-      "orderNumber": "",
+      "orderNumber": "1",
       "destinationViewData": {
-        "content": "",
-        "contentTitle": "",
-        "contentMeaning": "",
+        "content": "అ   ఆ   ఇ   ఈ   ఉ   ఊ   ఋ   ఋూ   ఌ   ౡ   ఎ   ఏ   ఐ   ఒ   ఓ   ఔ   అం   అః",
+        "contentTitle": "అచ్చులు",
+        "contentMeaning": "అచ్చులు మొత్తం పదహారు(16)",
         "contentMeaningTitle": "",
-        "contentImageUrl": "",
-        "lessons": {}
-      }
-    },
-    {
-      "tlessonName": "హల్లులు",
-      "elessonName": "Hallulu",
-      "lessonImageUrl": "ihallulu",
-      "orderNumber": "",
-      "destinationViewData": {
-        "content": "",
-        "contentTitle": "",
-        "contentMeaning": "",
-        "contentMeaningTitle": "",
-        "contentImageUrl": "",
-        "lessons": {}
-      }
-    },
-    {
-      "tlessonName": "కథలు",
-      "elessonName": "Kadhalu",
-      "lessonImageUrl": "iKadalu",
-      "orderNumber": "",
-      "destinationViewData": {
-        "content": "Test Story",
-        "contentTitle": "కథ",
-        "contentMeaning": "Test Story Meaning",
-        "contentMeaningTitle": "నీతి",
-        "contentImageUrl": "iKadalu",
-        "lessons": {
-          "listType": "",
-          "lessonsPageRowModel": {
-            "mainTitle": "పెద్దబాలశిక్ష",
-            "data": [
-              {
-                "tlessonName": "అచ్చులు",
-                "elessonName": "Achulu",
-                "lessonImageUrl": "",
-                "orderNumber": "",
-                "destinationViewData": {
-                  "content": "",
-                  "contentTitle": "",
-                  "contentMeaning": "",
-                  "contentMeaningTitle": "",
-                  "contentImageUrl": "",
-                  "lessons": {
-                    "listType": "",
-                    "lessonsPageRowModel": {}
-                  }
-                }
-              }
-            ]
-          }
-        }
-      }
-    },
-    {
-      "tlessonName": "పద్యాలు",
-      "elessonName": "Padhyalu",
-      "lessonImageUrl": "iPadyalu",
-      "orderNumber": "",
-      "destinationViewData": {
-        "content": "Test Padyam",
-        "contentTitle": "పద్యం",
-        "contentMeaning": "Test Padyam Meaning",
-        "contentMeaningTitle": "తాత్పర్యం",
         "contentImageUrl": "",
         "lessons": {}
       }
