@@ -4,7 +4,7 @@
     {
       "tlessonName": "అచ్చులు",
       "elessonName": "Achulu",
-      "lessonImageUrl": "",
+      "lessonImageUrl": "iachulu",
       "orderNumber": "",
       "destinationViewData": {
         "content": "",
@@ -18,7 +18,7 @@
     {
       "tlessonName": "హల్లులు",
       "elessonName": "Hallulu",
-      "lessonImageUrl": "",
+      "lessonImageUrl": "ihallulu",
       "orderNumber": "",
       "destinationViewData": {
         "content": "",
@@ -32,7 +32,7 @@
     {
       "tlessonName": "కథలు",
       "elessonName": "Kadhalu",
-      "lessonImageUrl": "",
+      "lessonImageUrl": "iKadalu",
       "orderNumber": "",
       "destinationViewData": {
         "content": "Test Story",
@@ -70,7 +70,7 @@
     {
       "tlessonName": "పద్యాలు",
       "elessonName": "Padhyalu",
-      "lessonImageUrl": "",
+      "lessonImageUrl": "iPadyalu",
       "orderNumber": "",
       "destinationViewData": {
         "content": "Test Padyam",
