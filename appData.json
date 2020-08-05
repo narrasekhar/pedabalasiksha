@@ -28,6 +28,61 @@
         "contentImageUrl": "",
         "lessons": {}
       }
+    },
+    {
+      "tlessonName": "గుణింతాలు",
+      "elessonName": "Gunimtalu",
+      "lessonImageUrl": "iKadalu",
+      "orderNumber": "3",
+      "destinationViewData": {
+        "content": "",
+        "contentTitle": "",
+        "contentMeaning": "",
+        "contentMeaningTitle": "",
+        "contentImageUrl": "",
+        "lessons": {
+          "listType": "",
+          "lessonsPageRowModel": {
+            "mainTitle": "గుణింతాలు",
+            "data": [
+              {
+                "tlessonName": "క గుణింతం",
+                "elessonName": "Ka Gunimtam",
+                "lessonImageUrl": "kaGunimtam",
+                "orderNumber": "1",
+                "destinationViewData": {
+                  "content": "క   కా   కి   కీ   కు   కూ   కృ   కౄ   కౢ   కౣ   కె   కే   కై   కొ   కో   కౌ   కఁ   కం   కః క్",
+                  "contentTitle": "క గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "ఖ గుణింతం",
+                "elessonName": "Kha Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "2",
+                "destinationViewData": {
+                  "content": "ఖ   ఖా   ఖి   ఖీ   ఖు   ఖూ   ఖృ   ఖౄ   ఖౢ   ఖౣ   ఖె   ఖే   ఖై   ఖొ   ఖో   ఖౌ   ఖఁ   ఖం   ఖః   ఖ్",
+                  "contentTitle": "ఖ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              }
+            ]
+          }
+        }
+      }
     }
   ]
 }
