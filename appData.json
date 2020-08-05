@@ -14,7 +14,20 @@
         "contentImageUrl": "",
         "lessons": {}
       }
+    },
+    {
+      "tlessonName": "హల్లులు",
+      "elessonName": "Hallulu",
+      "lessonImageUrl": "ihallulu",
+      "orderNumber": "2",
+      "destinationViewData": {
+        "content": "క   ఖ   గ   ఘ   ఙ\nచ   ౘ   ఛ   జ   ౙ   ఝ   ఞ\nట   ఠ   డ   ఢ   ణ\nత   థ   ద   ధ   న\nప   ఫ   బ   భ   మ\nయ   ర   ల   వ   శ   ష   స   హ   ళ   క్ష   ఱ",
+        "contentTitle": "హల్లులు",
+        "contentMeaning": "హల్లులు మొత్తం ముప్పైయెనిమిది(38)",
+        "contentMeaningTitle": "మంచి మాట",
+        "contentImageUrl": "",
+        "lessons": {}
+      }
     }
   ]
 }
-
