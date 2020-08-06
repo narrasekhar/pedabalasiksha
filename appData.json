@@ -16,7 +16,68 @@
 					]
 				],
 				"contentTitle": "అచ్చులు",
-				"contentMeaning": "అ:\t\tఅల, అందం, అర\nఆ:\t\tఆట, ఆలయం, ఆడ\nఇ:\t\tఇలా, ఇవతల, ఇల్లు\nఈ:\t\tఈగ, ఈత, ఈల\nఉ:\t\tఉడుత, ఉంగరం, ఉచితం\nఊ:\t\tఊక, ఊయల, ఊహ\nఋ:\t\tఋషి\nఎ:\t\tఎద, ఎచట\nఏ:\t\tఏడు, ఏకం\nఐ:\t\tఐదు, ఐసు\nఒ:\t\tఒక, ఒరే\nఓ:\t\tఓడ, ఓటమి\nఔ:\t\tఔర, ఔషధం\nఅం:\t\tఅంకె\nఅః:\t\tఅంతఃపురం",
+				"contentMeaning": [
+					[
+						"అ",
+						"అల, అందం, అర"
+					],
+					[
+						"ఆ",
+						"ఆట, ఆలయం, ఆడ"
+					],
+					[
+						"ఇ",
+						"ఇలా, ఇవతల, ఇల్లు"
+					],
+					[
+						"ఈ",
+						"ఈగ, ఈత, ఈల"
+					],
+					[
+						"ఉ",
+						"ఉడుత, ఉంగరం, ఉచితం"
+					],
+					[
+						"ఊ",
+						"ఊక, ఊయల, ఊహ"
+					],
+					[
+						"ఋ",
+						"ఋషి"
+					],
+					[
+						"ఎ",
+						"ఎద, ఎచట"
+					],
+					[
+						"ఏ",
+						"ఏడు, ఏకం"
+					],
+					[
+						"ఐ",
+						"ఐదు, ఐసు"
+					],
+					[
+						"ఒ",
+						"ఒక, ఒరే"
+					],
+					[
+						"ఓ",
+						"ఓడ, ఓటమి"
+					],
+					[
+						"ఔ",
+						"ఔర, ఔషధం"
+					],
+					[
+						"అం",
+						"అంకె"
+					],
+					[
+						"అః",
+						"అంతఃపురం"
+					]
+				],
 				"contentMeaningTitle": "పదాలు",
 				"contentImageUrl": "",
 				"lessons": {}
@@ -52,7 +113,11 @@
 					]
 				],
 				"contentTitle": "హల్లులు",
-				"contentMeaning": "హల్లులు మొత్తం ముప్పైయెనిమిది(38)",
+				"contentMeaning": [
+					[
+						"హల్లులు మొత్తం ముప్పైయెనిమిది(38)"
+					]
+				],
 				"contentMeaningTitle": "పదాలు",
 				"contentImageUrl": "",
 				"lessons": {}
@@ -66,7 +131,9 @@
 			"destinationViewData": {
 				"content": "",
 				"contentTitle": "",
-				"contentMeaning": "",
+				"contentMeaning": [
+					[]
+				],
 				"contentMeaningTitle": "",
 				"contentImageUrl": "",
 				"lessons": {
@@ -81,6 +148,10 @@
 								"orderNumber": "2",
 								"destinationViewData": {
 									"content": [
+										[]
+									],
+									"contentTitle": "క గుణింతం",
+									"contentMeaning": [
 										[
 											"తలకట్టు",
 											"అ + క = క"
@@ -114,9 +185,11 @@
 											"ఋూ + క = కౄ"
 										],
 										[
+											"",
 											"ఌ + క = కౢ"
 										],
 										[
+											"",
 											"ౡ + క = కౣ"
 										],
 										[
@@ -156,8 +229,6 @@
 											"అః + క = కః"
 										]
 									],
-									"contentTitle": "క గుణింతం",
-									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -178,7 +249,9 @@
 										]
 									],
 									"contentTitle": "క గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -199,7 +272,9 @@
 										]
 									],
 									"contentTitle": "ఖ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -220,7 +295,9 @@
 										]
 									],
 									"contentTitle": "గ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -241,7 +318,9 @@
 										]
 									],
 									"contentTitle": "ఘ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -262,7 +341,9 @@
 										]
 									],
 									"contentTitle": "ఙ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -283,7 +364,9 @@
 										]
 									],
 									"contentTitle": "చ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -304,7 +387,9 @@
 										]
 									],
 									"contentTitle": "ఛ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -325,7 +410,9 @@
 										]
 									],
 									"contentTitle": "జ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -346,7 +433,9 @@
 										]
 									],
 									"contentTitle": "ఝ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -367,7 +456,9 @@
 										]
 									],
 									"contentTitle": "ఞ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -388,7 +479,9 @@
 										]
 									],
 									"contentTitle": "ట గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -409,7 +502,9 @@
 										]
 									],
 									"contentTitle": "ఠ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -430,7 +525,9 @@
 										]
 									],
 									"contentTitle": "డ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -451,7 +548,9 @@
 										]
 									],
 									"contentTitle": "ఢ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -472,7 +571,9 @@
 										]
 									],
 									"contentTitle": "ణ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -493,7 +594,9 @@
 										]
 									],
 									"contentTitle": "త గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -514,7 +617,9 @@
 										]
 									],
 									"contentTitle": "థ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -535,7 +640,9 @@
 										]
 									],
 									"contentTitle": "ద గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -556,7 +663,9 @@
 										]
 									],
 									"contentTitle": "ధ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -577,7 +686,9 @@
 										]
 									],
 									"contentTitle": "న గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -598,7 +709,9 @@
 										]
 									],
 									"contentTitle": "ప గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -619,7 +732,9 @@
 										]
 									],
 									"contentTitle": "ఫ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -640,7 +755,9 @@
 										]
 									],
 									"contentTitle": "బ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -661,7 +778,9 @@
 										]
 									],
 									"contentTitle": "భ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -682,7 +801,9 @@
 										]
 									],
 									"contentTitle": "మ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -703,7 +824,9 @@
 										]
 									],
 									"contentTitle": "య గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -724,7 +847,9 @@
 										]
 									],
 									"contentTitle": "ర గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -745,7 +870,9 @@
 										]
 									],
 									"contentTitle": "ల గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -766,7 +893,9 @@
 										]
 									],
 									"contentTitle": "వ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -787,7 +916,9 @@
 										]
 									],
 									"contentTitle": "శ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -808,7 +939,9 @@
 										]
 									],
 									"contentTitle": "ష గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -829,7 +962,9 @@
 										]
 									],
 									"contentTitle": "స గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -850,7 +985,9 @@
 										]
 									],
 									"contentTitle": "హ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -871,7 +1008,9 @@
 										]
 									],
 									"contentTitle": "ళ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -892,7 +1031,9 @@
 										]
 									],
 									"contentTitle": "క్ష గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
@@ -913,7 +1054,9 @@
 										]
 									],
 									"contentTitle": "ఱ గుణింతం",
-									"contentMeaning": "",
+									"contentMeaning": [
+										[]
+									],
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
 									"lessons": {
