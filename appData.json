@@ -30,7 +30,22 @@
 			"destinationViewData": {
 				"content": [
 					[
-						"క   ఖ   గ   ఘ   ఙ\nచ   ౘ   ఛ   జ   ౙ   ఝ   ఞ\nట   ఠ   డ   ఢ   ణ\nత   థ   ద   ధ   న\nప   ఫ   బ   భ   మ\nయ   ర   ల   వ   శ   ష   స   హ   ళ   క్ష   ఱ"
+						"క   ఖ   గ   ఘ   ఙ"
+					],
+					[
+						"చ   ౘ   ఛ   జ   ౙ   ఝ   ఞ"
+					],
+					[
+						"ట   ఠ   డ   ఢ   ణ"
+					],
+					[
+						"త   థ   ద   ధ   న"
+					],
+					[
+						"ప   ఫ   బ   భ   మ"
+					],
+					[
+						"య   ర   ల   వ   శ   ష   స   హ   ళ   క్ష   ఱ"
 					],
 					[
 						"హల్లులు మొత్తం ముప్పైయెనిమిది(38)"
@@ -68,14 +83,77 @@
 									"content": [
 										[
 											"తలకట్టు",
-											"అ",
-											"+",
-											"క",
-											"=",
-											"క"
+											"అ + క = క"
 										],
 										[
-											"దీర్ఘం:\t\t\tఆ\t+\tక\t=\tకా\nగుడి:\t\t\tఇ\t+\tక\t=\tకి\nగుడిదీర్ఘం:\t\tఈ\t+\tక\t=\tకీ\nకొమ్ము:\t\t\tఉ\t+\tక\t=\tకు\nకొమ్ముదీర్ఘం:\t\tఊ\t+\tక\t=\tకూ\nసుడి:\t\t\tఋ\t+\tక\t=\tకృ\nసుడిదీర్ఘం:\t\tఋూ\t+\tక\t=\tకౄ\n\t\t\t\tఌ\t+\tక\t=\tకౢ\n\t\t\t\tౡ\t+\tక\t=\tకౣ\nఎత్వం:\t\t\tఎ\t+\tక\t=\tకె\nఏత్వం:\t\t\tఏ\t+\tక\t=\tకే\nఐత్వం:\t\t\tఐ\t+\tక\t=\tకై\nఒత్వం:\t\t\tఒ\t+\tక\t=\tకొ\nఓత్వం:\t\t\tఓ\t+\tక\t=\tకో\nఔత్వం:\t\t\tఔ\t+\tక\t=\tకౌ\nఅర సున్నా:\t\t\tఅఁ\t+\tక\t=\tకఁ\nపుర్ణానుస్వారం:\t\tఅం\t+\tక\t=\tకం\nవిసర్గం:\t\t\tఅః\t+\tక\t=\tకః"
+											"దీర్ఘం",
+											"ఆ + క = కా"
+										],
+										[
+											"గుడి",
+											"ఇ + క = కి"
+										],
+										[
+											"గుడిదీర్ఘం",
+											"ఈ + క = కీ"
+										],
+										[
+											"కొమ్ము",
+											"ఉ + క = కు"
+										],
+										[
+											"కొమ్ముదీర్ఘం",
+											"ఊ + క = కూ"
+										],
+										[
+											"సుడి",
+											"ఋ + క = కృ"
+										],
+										[
+											"సుడిదీర్ఘం",
+											"ఋూ + క = కౄ"
+										],
+										[
+											"ఌ + క = కౢ"
+										],
+										[
+											"ౡ + క = కౣ"
+										],
+										[
+											"ఎత్వం",
+											"ఎ + క = కె"
+										],
+										[
+											"ఏత్వం",
+											"ఏ + క = కే"
+										],
+										[
+											"ఐత్వం",
+											"ఐ + క = కై"
+										],
+										[
+											"ఒత్వం",
+											"ఒ + క = కొ"
+										],
+										[
+											"ఓత్వం",
+											"ఓ + క = కో"
+										],
+										[
+											"ఔత్వం",
+											"ఔ + క = కౌ"
+										],
+										[
+											"అర సున్నా",
+											"అఁ + క = కఁ"
+										],
+										[
+											"పుర్ణానుస్వారం",
+											"అం + క = కం"
+										],
+										[
+											"విసర్గం",
+											"అః + క = కః"
 										]
 									],
 									"contentTitle": "క గుణింతం",
@@ -90,11 +168,15 @@
 							},
 							{
 								"tlessonName": "క గుణింతం",
-								"elessonName": "Ka Gunimtam",
+								"elessonName": "ka Gunimtam",
 								"lessonImageUrl": "kaGunimtam",
 								"orderNumber": "2",
 								"destinationViewData": {
-									"content": "క   కా   కి   కీ   కు   కూ   కృ   కౄ   కౢ   కౣ   కె   కే   కై   కొ   కో   కౌ   కఁ   కం   కః క్",
+									"content": [
+										[
+											"క   కా   కి   కీ   కు   కూ   కృ   కౄ   కౢ   కౣ   కె   కే   కై   కొ   కో   కౌ   కఁ   కం   కః క్"
+										]
+									],
 									"contentTitle": "క గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -111,7 +193,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "3",
 								"destinationViewData": {
-									"content": "ఖ   ఖా   ఖి   ఖీ   ఖు   ఖూ   ఖృ   ఖౄ   ఖౢ   ఖౣ   ఖె   ఖే   ఖై   ఖొ   ఖో   ఖౌ   ఖఁ   ఖం   ఖః   ఖ్",
+									"content": [
+										[
+											"ఖ   ఖా   ఖి   ఖీ   ఖు   ఖూ   ఖృ   ఖౄ   ఖౢ   ఖౣ   ఖె   ఖే   ఖై   ఖొ   ఖో   ఖౌ   ఖఁ   ఖం   ఖః   ఖ్"
+										]
+									],
 									"contentTitle": "ఖ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -128,7 +214,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "4",
 								"destinationViewData": {
-									"content": "గ   గా   గి   గీ   గు   గూ   గృ   గౄ   గౢ   గౣ   గె   గే   గై   గొ   గో   గౌ   గఁ   గం   గః   గ్",
+									"content": [
+										[
+											"గ   గా   గి   గీ   గు   గూ   గృ   గౄ   గౢ   గౣ   గె   గే   గై   గొ   గో   గౌ   గఁ   గం   గః   గ్"
+										]
+									],
 									"contentTitle": "గ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -145,7 +235,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "5",
 								"destinationViewData": {
-									"content": "ఘ   ఘా   ఘి   ఘీ   ఘు   ఘూ   ఘృ   ఘౄ   ఘౢ   ఘౣ   ఘె   ఘే   ఘై   ఘొ   ఘో   ఘౌ   ఘఁ   ఘం   ఘః   ఘ్",
+									"content": [
+										[
+											"ఘ   ఘా   ఘి   ఘీ   ఘు   ఘూ   ఘృ   ఘౄ   ఘౢ   ఘౣ   ఘె   ఘే   ఘై   ఘొ   ఘో   ఘౌ   ఘఁ   ఘం   ఘః   ఘ్"
+										]
+									],
 									"contentTitle": "ఘ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -158,11 +252,15 @@
 							},
 							{
 								"tlessonName": "ఙ గుణింతం",
-								"elessonName": "Inya Gunimtam",
+								"elessonName": "ṅa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "6",
 								"destinationViewData": {
-									"content": "ఙ   ఙా   ఙి   ఙీ   ఙు   ఙూ   ఙృ   ఙౄ   ఙౢ   ఙౣ   ఙె   ఙే   ఙై   ఙొ   ఙో   ఙౌ   ఙఁ   ఙం   ఙః   ఙ్",
+									"content": [
+										[
+											"ఙ   ఙా   ఙి   ఙీ   ఙు   ఙూ   ఙృ   ఙౄ   ఙౢ   ఙౣ   ఙె   ఙే   ఙై   ఙొ   ఙో   ఙౌ   ఙఁ   ఙం   ఙః   ఙ్"
+										]
+									],
 									"contentTitle": "ఙ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -175,11 +273,15 @@
 							},
 							{
 								"tlessonName": "చ గుణింతం",
-								"elessonName": "Cha Gunimtam",
+								"elessonName": "Ca Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "7",
 								"destinationViewData": {
-									"content": "చ   చా   చి   చీ   చు   చూ   చృ   చౄ   చౢ   చౣ   చె   చే   చై   చొ   చో   చౌ   చఁ   చం   చః   చ్",
+									"content": [
+										[
+											"చ   చా   చి   చీ   చు   చూ   చృ   చౄ   చౢ   చౣ   చె   చే   చై   చొ   చో   చౌ   చఁ   చం   చః   చ్"
+										]
+									],
 									"contentTitle": "చ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -192,11 +294,15 @@
 							},
 							{
 								"tlessonName": "ఛ గుణింతం",
-								"elessonName": "Chha Gunimtam",
+								"elessonName": "Cha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "8",
 								"destinationViewData": {
-									"content": "ఛ   ఛా   ఛి   ఛీ   ఛు   ఛూ   ఛృ   ఛౄ   ఛౢ   ఛౣ   ఛె   ఛే   ఛై   ఛొ   ఛో   ఛౌ   ఛఁ   ఛం   ఛః   ఛ్",
+									"content": [
+										[
+											"ఛ   ఛా   ఛి   ఛీ   ఛు   ఛూ   ఛృ   ఛౄ   ఛౢ   ఛౣ   ఛె   ఛే   ఛై   ఛొ   ఛో   ఛౌ   ఛఁ   ఛం   ఛః   ఛ్"
+										]
+									],
 									"contentTitle": "ఛ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -213,7 +319,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "9",
 								"destinationViewData": {
-									"content": "జ   జా   జి   జీ   జు   జూ   జృ   జౄ   జౢ   జౣ   జె   జే   జై   జొ   జో   జౌ   జఁ   జం   జః   జ్",
+									"content": [
+										[
+											"జ   జా   జి   జీ   జు   జూ   జృ   జౄ   జౢ   జౣ   జె   జే   జై   జొ   జో   జౌ   జఁ   జం   జః   జ్"
+										]
+									],
 									"contentTitle": "జ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -230,7 +340,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "10",
 								"destinationViewData": {
-									"content": "ఝ   ఝా   ఝి   ఝీ   ఝు   ఝూ   ఝృ   ఝౄ   ఝౢ   ఝౣ   ఝె   ఝే   ఝై   ఝొ   ఝో   ఝౌ   ఝఁ   ఝం   ఝః   ఝ్",
+									"content": [
+										[
+											"ఝ   ఝా   ఝి   ఝీ   ఝు   ఝూ   ఝృ   ఝౄ   ఝౢ   ఝౣ   ఝె   ఝే   ఝై   ఝొ   ఝో   ఝౌ   ఝఁ   ఝం   ఝః   ఝ్"
+										]
+									],
 									"contentTitle": "ఝ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -243,11 +357,15 @@
 							},
 							{
 								"tlessonName": "ఞ గుణింతం",
-								"elessonName": "Ini Gunimtam",
+								"elessonName": "ña Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "11",
 								"destinationViewData": {
-									"content": "ఞ   ఞా   ఞి   ఞీ   ఞు   ఞూ   ఞృ   ఞౄ   ఞౢ   ఞౣ   ఞె   ఞే   ఞై   ఞొ   ఞో   ఞౌ   ఞఁ   ఞం   ఞః   ఞ్",
+									"content": [
+										[
+											"ఞ   ఞా   ఞి   ఞీ   ఞు   ఞూ   ఞృ   ఞౄ   ఞౢ   ఞౣ   ఞె   ఞే   ఞై   ఞొ   ఞో   ఞౌ   ఞఁ   ఞం   ఞః   ఞ్"
+										]
+									],
 									"contentTitle": "ఞ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -264,7 +382,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "12",
 								"destinationViewData": {
-									"content": "ట   టా   టి   టీ   టు   టూ   టృ   టౄ   టౢ   టౣ   టె   టే   టై   టొ   టో   టౌ   టఁ   టం   టః   ట్",
+									"content": [
+										[
+											"ట   టా   టి   టీ   టు   టూ   టృ   టౄ   టౢ   టౣ   టె   టే   టై   టొ   టో   టౌ   టఁ   టం   టః   ట్"
+										]
+									],
 									"contentTitle": "ట గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -281,7 +403,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "13",
 								"destinationViewData": {
-									"content": "ఠ   ఠా   ఠి   ఠీ   ఠు   ఠూ   ఠృ   ఠౄ   ఠౢ   ఠౣ   ఠె   ఠే   ఠై   ఠొ   ఠో   ఠౌ   ఠఁ   ఠం   ఠః   ఠ్",
+									"content": [
+										[
+											"ఠ   ఠా   ఠి   ఠీ   ఠు   ఠూ   ఠృ   ఠౄ   ఠౢ   ఠౣ   ఠె   ఠే   ఠై   ఠొ   ఠో   ఠౌ   ఠఁ   ఠం   ఠః   ఠ్"
+										]
+									],
 									"contentTitle": "ఠ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -298,7 +424,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "14",
 								"destinationViewData": {
-									"content": "డ   డా   డి   డీ   డు   డూ   డృ   డౄ   డౢ   డౣ   డె   డే   డై   డొ   డో   డౌ   డఁ   డం   డః   డ్",
+									"content": [
+										[
+											"డ   డా   డి   డీ   డు   డూ   డృ   డౄ   డౢ   డౣ   డె   డే   డై   డొ   డో   డౌ   డఁ   డం   డః   డ్"
+										]
+									],
 									"contentTitle": "డ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -315,7 +445,11 @@
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ఢ   ఢా   ఢి   ఢీ   ఢు   ఢూ   ఢృ   ఢౄ   ఢౢ   ఢౣ   ఢె   ఢే   ఢై   ఢొ   ఢో   ఢౌ   ఢఁ   ఢం   ఢః   ఢ్",
+									"content": [
+										[
+											"ఢ   ఢా   ఢి   ఢీ   ఢు   ఢూ   ఢృ   ఢౄ   ఢౢ   ఢౣ   ఢె   ఢే   ఢై   ఢొ   ఢో   ఢౌ   ఢఁ   ఢం   ఢః   ఢ్"
+										]
+									],
 									"contentTitle": "ఢ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
@@ -327,13 +461,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ణ గుణింతం",
+								"elessonName": "ṇa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ణ   ణా   ణి   ణీ   ణు   ణూ   ణృ   ణౄ   ణౢ   ణౣ   ణె   ణే   ణై   ణొ   ణో   ణౌ   ణఁ   ణం   ణః   ణ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ణ   ణా   ణి   ణీ   ణు   ణూ   ణృ   ణౄ   ణౢ   ణౣ   ణె   ణే   ణై   ణొ   ణో   ణౌ   ణఁ   ణం   ణః   ణ్"
+										]
+									],
+									"contentTitle": "ణ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -344,13 +482,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "త గుణింతం",
+								"elessonName": "ta Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "త   తా   తి   తీ   తు   తూ   తృ   తౄ   తౢ   తౣ   తె   తే   తై   తొ   తో   తౌ   తఁ   తం   తః   త్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"త   తా   తి   తీ   తు   తూ   తృ   తౄ   తౢ   తౣ   తె   తే   తై   తొ   తో   తౌ   తఁ   తం   తః   త్"
+										]
+									],
+									"contentTitle": "త గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -361,13 +503,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "థ గుణింతం",
+								"elessonName": "ths Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "థ   థా   థి   థీ   థు   థూ   థృ   థౄ   థౢ   థౣ   థె   థే   థై   థొ   థో   థౌ   థఁ   థం   థః   థ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"థ   థా   థి   థీ   థు   థూ   థృ   థౄ   థౢ   థౣ   థె   థే   థై   థొ   థో   థౌ   థఁ   థం   థః   థ్"
+										]
+									],
+									"contentTitle": "థ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -378,13 +524,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ద గుణింతం",
+								"elessonName": "da Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ద   దా   ది   దీ   దు   దూ   దృ   దౄ   దౢ   దౣ   దె   దే   దై   దొ   దో   దౌ   దఁ   దం   దః   ద్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ద   దా   ది   దీ   దు   దూ   దృ   దౄ   దౢ   దౣ   దె   దే   దై   దొ   దో   దౌ   దఁ   దం   దః   ద్"
+										]
+									],
+									"contentTitle": "ద గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -395,13 +545,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ధ గుణింతం",
+								"elessonName": "dha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ధ   ధా   ధి   ధీ   ధు   ధూ   ధృ   ధౄ   ధౢ   ధౣ   ధె   ధే   ధై   ధొ   ధో   ధౌ   ధఁ   ధం   ధః   ధ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ధ   ధా   ధి   ధీ   ధు   ధూ   ధృ   ధౄ   ధౢ   ధౣ   ధె   ధే   ధై   ధొ   ధో   ధౌ   ధఁ   ధం   ధః   ధ్"
+										]
+									],
+									"contentTitle": "ధ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -412,13 +566,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "న గుణింతం",
+								"elessonName": "na Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "న   నా   ని   నీ   ను   నూ   నృ   నౄ   నౢ   నౣ   నె   నే   నై   నొ   నో   నౌ   నఁ   నం   నః   న్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"న   నా   ని   నీ   ను   నూ   నృ   నౄ   నౢ   నౣ   నె   నే   నై   నొ   నో   నౌ   నఁ   నం   నః   న్"
+										]
+									],
+									"contentTitle": "న గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -429,13 +587,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ప గుణింతం",
+								"elessonName": "pa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ప   పా   పి   పీ   పు   పూ   పృ   పౄ   పౢ   పౣ   పె   పే   పై   పొ   పో   పౌ   పఁ   పం   పః   ప్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ప   పా   పి   పీ   పు   పూ   పృ   పౄ   పౢ   పౣ   పె   పే   పై   పొ   పో   పౌ   పఁ   పం   పః   ప్"
+										]
+									],
+									"contentTitle": "ప గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -446,13 +608,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ఫ గుణింతం",
+								"elessonName": "pha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ఫ   ఫా   ఫి   ఫీ   ఫు   ఫూ   ఫృ   ఫౄ   ఫౢ   ఫౣ   ఫె   ఫే   ఫై   ఫొ   ఫో   ఫౌ   ఫఁ   ఫం   ఫః   ఫ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ఫ   ఫా   ఫి   ఫీ   ఫు   ఫూ   ఫృ   ఫౄ   ఫౢ   ఫౣ   ఫె   ఫే   ఫై   ఫొ   ఫో   ఫౌ   ఫఁ   ఫం   ఫః   ఫ్"
+										]
+									],
+									"contentTitle": "ఫ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -463,13 +629,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "బ గుణింతం",
+								"elessonName": "ba Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "బ   బా   బి   బీ   బు   బూ   బృ   బౄ   బౢ   బౣ   బె   బే   బై   బొ   బో   బౌ   బఁ   బం   బః   బ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"బ   బా   బి   బీ   బు   బూ   బృ   బౄ   బౢ   బౣ   బె   బే   బై   బొ   బో   బౌ   బఁ   బం   బః   బ్"
+										]
+									],
+									"contentTitle": "బ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -480,13 +650,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "భ గుణింతం",
+								"elessonName": "bha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "భ   భా   భి   భీ   భు   భూ   భృ   భౄ   భౢ   భౣ   భె   భే   భై   భొ   భో   భౌ   భఁ   భం   భః   భ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"భ   భా   భి   భీ   భు   భూ   భృ   భౄ   భౢ   భౣ   భె   భే   భై   భొ   భో   భౌ   భఁ   భం   భః   భ్"
+										]
+									],
+									"contentTitle": "భ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -497,13 +671,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "మ గుణింతం",
+								"elessonName": "ma Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "మ   మా   మి   మీ   ము   మూ   మృ   మౄ   మౢ   మౣ   మె   మే   మై   మొ   మో   మౌ   మఁ   మం   మః   మ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"మ   మా   మి   మీ   ము   మూ   మృ   మౄ   మౢ   మౣ   మె   మే   మై   మొ   మో   మౌ   మఁ   మం   మః   మ్"
+										]
+									],
+									"contentTitle": "మ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -514,13 +692,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "య గుణింతం",
+								"elessonName": "ya Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "య   యా   యి   యీ   యు   యూ   యృ   యౄ   యౢ   యౣ   యె   యే   యై   యొ   యో   యౌ   యఁ   యం   యః   య్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"య   యా   యి   యీ   యు   యూ   యృ   యౄ   యౢ   యౣ   యె   యే   యై   యొ   యో   యౌ   యఁ   యం   యః   య్"
+										]
+									],
+									"contentTitle": "య గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -531,13 +713,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ర గుణింతం",
+								"elessonName": "ra Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ర   రా   రి   రీ   రు   రూ   రృ   రౄ   రౢ   రౣ   రె   రే   రై   రొ   రో   రౌ   రఁ   రం   రః   ర్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ర   రా   రి   రీ   రు   రూ   రృ   రౄ   రౢ   రౣ   రె   రే   రై   రొ   రో   రౌ   రఁ   రం   రః   ర్"
+										]
+									],
+									"contentTitle": "ర గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -548,13 +734,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ల గుణింతం",
+								"elessonName": "la Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ల   లా   లి   లీ   లు   లూ   లృ   లౄ   లౢ   లౣ   లె   లే   లై   లొ   లో   లౌ   లఁ   లం   లః   ల్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ల   లా   లి   లీ   లు   లూ   లృ   లౄ   లౢ   లౣ   లె   లే   లై   లొ   లో   లౌ   లఁ   లం   లః   ల్"
+										]
+									],
+									"contentTitle": "ల గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -565,13 +755,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "వ గుణింతం",
+								"elessonName": "va Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "వ   వా   వి   వీ   వు   వూ   వృ   వౄ   వౢ   వౣ   వె   వే   వై   వొ   వో   వౌ   వఁ   వం   వః   వ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"వ   వా   వి   వీ   వు   వూ   వృ   వౄ   వౢ   వౣ   వె   వే   వై   వొ   వో   వౌ   వఁ   వం   వః   వ్"
+										]
+									],
+									"contentTitle": "వ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -582,13 +776,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "శ గుణింతం",
+								"elessonName": "śa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "శ   శా   శి   శీ   శు   శూ   శృ   శౄ   శౢ   శౣ   శె   శే   శై   శొ   శో   శౌ   శఁ   శం   శః   శ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"శ   శా   శి   శీ   శు   శూ   శృ   శౄ   శౢ   శౣ   శె   శే   శై   శొ   శో   శౌ   శఁ   శం   శః   శ్"
+										]
+									],
+									"contentTitle": "శ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -599,13 +797,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ష గుణింతం",
+								"elessonName": "ṣa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ష   షా   షి   షీ   షు   షూ   షృ   షౄ   షౢ   షౣ   షె   షే   షై   షొ   షో   షౌ   షఁ   షం   షః   ష్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ష   షా   షి   షీ   షు   షూ   షృ   షౄ   షౢ   షౣ   షె   షే   షై   షొ   షో   షౌ   షఁ   షం   షః   ష్"
+										]
+									],
+									"contentTitle": "ష గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -616,13 +818,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "స గుణింతం",
+								"elessonName": "sa Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "స   సా   సి   సీ   సు   సూ   సృ   సౄ   సౢ   సౣ   సె   సే   సై   సొ   సో   సౌ   సఁ   సం   సః   స్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"స   సా   సి   సీ   సు   సూ   సృ   సౄ   సౢ   సౣ   సె   సే   సై   సొ   సో   సౌ   సఁ   సం   సః   స్"
+										]
+									],
+									"contentTitle": "స గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -633,13 +839,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "హ గుణింతం",
+								"elessonName": "ha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "హ   హా   హి   హీ   హు   హూ   హృ   హౄ   హౢ   హౣ   హె   హే   హై   హొ   హో   హౌ   హఁ   హం   హః   హ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"హ   హా   హి   హీ   హు   హూ   హృ   హౄ   హౢ   హౣ   హె   హే   హై   హొ   హో   హౌ   హఁ   హం   హః   హ్"
+										]
+									],
+									"contentTitle": "హ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -650,13 +860,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ళ గుణింతం",
+								"elessonName": "ala Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ళ   ళా   ళి   ళీ   ళు   ళూ   ళృ   ళౄ   ళౢ   ళౣ   ళె   ళే   ళై   ళొ   ళో   ళౌ   ళఁ   ళం   ళః   ళ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ళ   ళా   ళి   ళీ   ళు   ళూ   ళృ   ళౄ   ళౢ   ళౣ   ళె   ళే   ళై   ళొ   ళో   ళౌ   ళఁ   ళం   ళః   ళ్"
+										]
+									],
+									"contentTitle": "ళ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -667,13 +881,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "క్ష గుణింతం",
+								"elessonName": "Ksha Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "క్ష   క్షా   క్షి   క్షీ   క్షు   క్షూ   క్షృ   క్షౄ   క్షౢ   క్షౣ   క్షె   క్షే   క్షై   క్షొ   క్షో   క్షౌ   క్షఁ   క్షం   క్షః   క్ష్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"క్ష   క్షా   క్షి   క్షీ   క్షు   క్షూ   క్షృ   క్షౄ   క్షౢ   క్షౣ   క్షె   క్షే   క్షై   క్షొ   క్షో   క్షౌ   క్షఁ   క్షం   క్షః   క్ష్"
+										]
+									],
+									"contentTitle": "క్ష గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
@@ -684,13 +902,17 @@
 								}
 							},
 							{
-								"tlessonName": "ఢ గుణింతం",
-								"elessonName": "ḍha Gunimtam",
+								"tlessonName": "ఱ గుణింతం",
+								"elessonName": "Ara Gunimtam",
 								"lessonImageUrl": "khaGunimtam",
 								"orderNumber": "15",
 								"destinationViewData": {
-									"content": "ఱ   ఱా   ఱి   ఱీ   ఱు   ఱూ   ఱృ   ఱౄ   ఱౢ   ఱౣ   ఱె   ఱే   ఱై   ఱొ   ఱో   ఱౌ   ఱఁ   ఱం   ఱః   ఱ్",
-									"contentTitle": "ఢ గుణింతం",
+									"content": [
+										[
+											"ఱ   ఱా   ఱి   ఱీ   ఱు   ఱూ   ఱృ   ఱౄ   ఱౢ   ఱౣ   ఱె   ఱే   ఱై   ఱొ   ఱో   ఱౌ   ఱఁ   ఱం   ఱః   ఱ్"
+										]
+									],
+									"contentTitle": "ఱ గుణింతం",
 									"contentMeaning": "",
 									"contentMeaningTitle": "",
 									"contentImageUrl": "",
