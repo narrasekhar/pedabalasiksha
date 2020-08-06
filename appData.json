@@ -95,6 +95,125 @@
                     "lessonsPageRowModel": {}
                   }
                 }
+              },
+              {
+                "tlessonName": "గ గుణింతం",
+                "elessonName": "Ga Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "4",
+                "destinationViewData": {
+                  "content": "గ   గా   గి   గీ   గు   గూ   గృ   గౄ   గౢ   గౣ   గె   గే   గై   గొ   గో   గౌ   గఁ   గం   గః   గ్",
+                  "contentTitle": "గ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "ఘ గుణింతం",
+                "elessonName": "Gha Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "5",
+                "destinationViewData": {
+                  "content": "ఘ   ఘా   ఘి   ఘీ   ఘు   ఘూ   ఘృ   ఘౄ   ఘౢ   ఘౣ   ఘె   ఘే   ఘై   ఘొ   ఘో   ఘౌ   ఘఁ   ఘం   ఘః   ఘ్",
+                  "contentTitle": "ఘ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "ఙ గుణింతం",
+                "elessonName": "Inya Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "6",
+                "destinationViewData": {
+                  "content": "ఙ   ఙా   ఙి   ఙీ   ఙు   ఙూ   ఙృ   ఙౄ   ఙౢ   ఙౣ   ఙె   ఙే   ఙై   ఙొ   ఙో   ఙౌ   ఙఁ   ఙం   ఙః   ఙ్",
+                  "contentTitle": "ఙ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "చ గుణింతం",
+                "elessonName": "Cha Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "7",
+                "destinationViewData": {
+                  "content": "చ   చా   చి   చీ   చు   చూ   చృ   చౄ   చౢ   చౣ   చె   చే   చై   చొ   చో   చౌ   చఁ   చం   చః   చ్",
+                  "contentTitle": "చ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "ఛ గుణింతం",
+                "elessonName": "Chha Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "8",
+                "destinationViewData": {
+                  "content": "ఛ   ఛా   ఛి   ఛీ   ఛు   ఛూ   ఛృ   ఛౄ   ఛౢ   ఛౣ   ఛె   ఛే   ఛై   ఛొ   ఛో   ఛౌ   ఛఁ   ఛం   ఛః   ఛ్",
+                  "contentTitle": "ఛ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "జ గుణింతం",
+                "elessonName": "Ja Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "9",
+                "destinationViewData": {
+                  "content": "జ   జా   జి   జీ   జు   జూ   జృ   జౄ   జౢ   జౣ   జె   జే   జై   జొ   జో   జౌ   జఁ   జం   జః   జ్",
+                  "contentTitle": "జ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
+              },
+              {
+                "tlessonName": "ఝ గుణింతం",
+                "elessonName": "Jha Gunimtam",
+                "lessonImageUrl": "khaGunimtam",
+                "orderNumber": "9",
+                "destinationViewData": {
+                  "content": "ఝ   ఝా   ఝి   ఝీ   ఝు   ఝూ   ఝృ   ఝౄ   ఝౢ   ఝౣ   ఝె   ఝే   ఝై   ఝొ   ఝో   ఝౌ   ఝఁ   ఝం   ఝః   ఝ్",
+                  "contentTitle": "ఝ గుణింతం",
+                  "contentMeaning": "",
+                  "contentMeaningTitle": "",
+                  "contentImageUrl": "",
+                  "lessons": {
+                    "listType": "",
+                    "lessonsPageRowModel": {}
+                  }
+                }
               }
             ]
           }
