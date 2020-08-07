@@ -1214,6 +1214,24 @@
 										"lessonsPageRowModel": {}
 									}
 								}
+							},
+							{
+								"tlessonName": "సంఖ్యామానం",
+								"elessonName": "samkyamanam ",
+								"lessonImageUrl": "isamkyamanam ",
+								"orderNumber": "2",
+								"destinationViewData": {
+									"content": [
+										["1","ఒకటి"]
+									],
+									"contentTitle": "సంఖ్యామానం",
+									"contentMeaning": [
+										[]
+									],
+									"contentMeaningTitle": "",
+									"contentImageUrl": "",
+									"lessons": {}
+								}
 							}
 						]
 					}
