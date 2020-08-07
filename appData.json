@@ -150,7 +150,7 @@
 									"content": [
 										[]
 									],
-									"contentTitle": "క గుణింతం",
+									"contentTitle": "రూపభేదాలు",
 									"contentMeaning": [
 										[
 											"తలకట్టు → ",
@@ -1056,6 +1056,154 @@
 										]
 									],
 									"contentTitle": "ఱ గుణింతం",
+									"contentMeaning": [
+										[]
+									],
+									"contentMeaningTitle": "",
+									"contentImageUrl": "",
+									"lessons": {
+										"listType": "",
+										"lessonsPageRowModel": {}
+									}
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"tlessonName": "తెలుగు అంకెలు",
+			"elessonName": "Telugu Amkelu",
+			"lessonImageUrl": "iKadalu",
+			"orderNumber": "4",
+			"destinationViewData": {
+				"content": "",
+				"contentTitle": "",
+				"contentMeaning": [
+					[]
+				],
+				"contentMeaningTitle": "",
+				"contentImageUrl": "",
+				"lessons": {
+					"listType": "",
+					"lessonsPageRowModel": {
+						"mainTitle": "తెలుగు అంకెలు",
+						"data": [
+							{
+								"tlessonName": "అంకెలు",
+								"elessonName": "Amkelu",
+								"lessonImageUrl": "iamkelu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										[
+											[
+												"౦",
+												"0"
+											],
+											[
+												"౧",
+												"ఒకటి",
+												"1"
+											],
+											[
+												"౨",
+												"రెండు",
+												"2"
+											],
+											[
+												"౩",
+												"మూడు",
+												"3"
+											],
+											[
+												"౪",
+												"నాలుగు",
+												"4"
+											],
+											[
+												"౫",
+												"ఐదు",
+												"5"
+											],
+											[
+												"౬",
+												"ఆరు",
+												"6"
+											],
+											[
+												"౭",
+												"ఏడు",
+												"7"
+											],
+											[
+												"ఎనిమిది",
+												"8"
+											],
+											[
+												"౯",
+												"తొమ్మిది",
+												"9"
+											],
+											[
+												"౧౦ → ",
+												"",
+												"10"
+											],
+											[
+												"౧౧ → ",
+												"పదకొండు",
+												"11"
+											],
+											[
+												"౧౨ → ",
+												"పన్నెండు",
+												"12"
+											],
+											[
+												"౧౩ → ",
+												"పదమూడు",
+												"13"
+											],
+											[
+												"౧౪ → ",
+												"పద్నాలుగు",
+												"14"
+											],
+											[
+												"౧౫ → ",
+												"పదిహేను",
+												"15"
+											],
+											[
+												"౧౬ → ",
+												"పదహారు",
+												"16"
+											],
+											[
+												"౧౭ → ",
+												"పదిహేడు",
+												"17"
+											],
+											[
+												"౧౮ → ",
+												"పద్దెనిమిది",
+												"18"
+											],
+											[
+												"౧౯ → ",
+												"పంతొమ్మిది",
+												"19"
+											],
+											[
+												"౨౦ → ",
+												"ఇరవై",
+												"20"
+											]
+										]
+									],
+									"contentTitle": "అంకెలు",
 									"contentMeaning": [
 										[]
 									],
