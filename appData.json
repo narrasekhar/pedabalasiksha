@@ -1089,6 +1089,30 @@
 										}
 									}
 								}
+							},
+							{
+								"tlessonName": "ఒత్తులు",
+								"elessonName": "Ottulu",
+								"lessonImageUrl": "iottulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										[
+											"క వొత్తు", "క్క", "అక్క"
+										],
+										[
+											"ఖ వొత్తు", "క్ఖ", "నిక్ఖా"
+										]
+									],
+									"contentTitle": "ఒత్తులు",
+									"contentMeaning": [
+										[
+										]
+									],
+									"contentMeaningTitle": "",
+									"contentImageUrl": "",
+									"lessons": {}
+								}
 							}
 						]
 					}
