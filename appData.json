@@ -1418,6 +1418,59 @@
 														"contentImageUrl": "",
 														"lessons": {}
 													}
+												},
+												{
+													"tlessonName": "భిన్నాలు",
+													"elessonName": "Bhinnalu",
+													"lessonImageUrl": "ibhinnalu",
+													"orderNumber": "3",
+													"destinationViewData": {
+														"content": [
+															[
+																"౸",
+																"0/4"
+															],
+															[
+																"౹",
+																"1/4"
+															],
+															[
+																"౺",
+																"",
+																"1/2"
+															],
+															[
+																"౻",
+																"3/4"
+															],
+															[
+																"౦",
+																"0/16"
+															],
+															[
+																"౼",
+																"1/16"
+															],
+															[
+																"౽",
+																"1/8"
+															],
+															[
+																"౾",
+																"3/16"
+															]
+														],
+														"contentTitle": "భిన్నాలు",
+														"contentMeaning": [
+															[]
+														],
+														"contentMeaningTitle": "",
+														"contentImageUrl": "",
+														"lessons": {
+															"listType": "",
+															"lessonsPageRowModel": {}
+														}
+													}
 												}
 											]
 										}
