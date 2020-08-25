@@ -332,16 +332,17 @@
 													"orderNumber": "4",
 													"destinationViewData": {
 														"content": [
-															[
-																"గ   గా   గి   గీ   గు   గూ   గృ   గౄ   గౢ   గౣ   గె   గే   గై   గొ   గో   గౌ   గఁ   గం   గః   గ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"గ   గా   గి   గీ   గు   గూ   గృ   గౄ   గౢ   గౣ   గె   గే   గై   గొ   గో   గౌ   గఁ   గం   గః   గ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "గ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -355,16 +356,17 @@
 													"orderNumber": "5",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఘ   ఘా   ఘి   ఘీ   ఘు   ఘూ   ఘృ   ఘౄ   ఘౢ   ఘౣ   ఘె   ఘే   ఘై   ఘొ   ఘో   ఘౌ   ఘఁ   ఘం   ఘః   ఘ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఘ   ఘా   ఘి   ఘీ   ఘు   ఘూ   ఘృ   ఘౄ   ఘౢ   ఘౣ   ఘె   ఘే   ఘై   ఘొ   ఘో   ఘౌ   ఘఁ   ఘం   ఘః   ఘ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఘ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -378,16 +380,17 @@
 													"orderNumber": "6",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఙ   ఙా   ఙి   ఙీ   ఙు   ఙూ   ఙృ   ఙౄ   ఙౢ   ఙౣ   ఙె   ఙే   ఙై   ఙొ   ఙో   ఙౌ   ఙఁ   ఙం   ఙః   ఙ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఙ   ఙా   ఙి   ఙీ   ఙు   ఙూ   ఙృ   ఙౄ   ఙౢ   ఙౣ   ఙె   ఙే   ఙై   ఙొ   ఙో   ఙౌ   ఙఁ   ఙం   ఙః   ఙ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఙ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -401,16 +404,17 @@
 													"orderNumber": "7",
 													"destinationViewData": {
 														"content": [
-															[
-																"చ   చా   చి   చీ   చు   చూ   చృ   చౄ   చౢ   చౣ   చె   చే   చై   చొ   చో   చౌ   చఁ   చం   చః   చ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"చ   చా   చి   చీ   చు   చూ   చృ   చౄ   చౢ   చౣ   చె   చే   చై   చొ   చో   చౌ   చఁ   చం   చః   చ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "చ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -424,16 +428,17 @@
 													"orderNumber": "8",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఛ   ఛా   ఛి   ఛీ   ఛు   ఛూ   ఛృ   ఛౄ   ఛౢ   ఛౣ   ఛె   ఛే   ఛై   ఛొ   ఛో   ఛౌ   ఛఁ   ఛం   ఛః   ఛ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఛ   ఛా   ఛి   ఛీ   ఛు   ఛూ   ఛృ   ఛౄ   ఛౢ   ఛౣ   ఛె   ఛే   ఛై   ఛొ   ఛో   ఛౌ   ఛఁ   ఛం   ఛః   ఛ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఛ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -447,16 +452,17 @@
 													"orderNumber": "9",
 													"destinationViewData": {
 														"content": [
-															[
-																"జ   జా   జి   జీ   జు   జూ   జృ   జౄ   జౢ   జౣ   జె   జే   జై   జొ   జో   జౌ   జఁ   జం   జః   జ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"జ   జా   జి   జీ   జు   జూ   జృ   జౄ   జౢ   జౣ   జె   జే   జై   జొ   జో   జౌ   జఁ   జం   జః   జ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "జ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -470,16 +476,17 @@
 													"orderNumber": "10",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఝ   ఝా   ఝి   ఝీ   ఝు   ఝూ   ఝృ   ఝౄ   ఝౢ   ఝౣ   ఝె   ఝే   ఝై   ఝొ   ఝో   ఝౌ   ఝఁ   ఝం   ఝః   ఝ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఝ   ఝా   ఝి   ఝీ   ఝు   ఝూ   ఝృ   ఝౄ   ఝౢ   ఝౣ   ఝె   ఝే   ఝై   ఝొ   ఝో   ఝౌ   ఝఁ   ఝం   ఝః   ఝ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఝ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -493,16 +500,17 @@
 													"orderNumber": "11",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఞ   ఞా   ఞి   ఞీ   ఞు   ఞూ   ఞృ   ఞౄ   ఞౢ   ఞౣ   ఞె   ఞే   ఞై   ఞొ   ఞో   ఞౌ   ఞఁ   ఞం   ఞః   ఞ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఞ   ఞా   ఞి   ఞీ   ఞు   ఞూ   ఞృ   ఞౄ   ఞౢ   ఞౣ   ఞె   ఞే   ఞై   ఞొ   ఞో   ఞౌ   ఞఁ   ఞం   ఞః   ఞ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఞ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -516,16 +524,17 @@
 													"orderNumber": "12",
 													"destinationViewData": {
 														"content": [
-															[
-																"ట   టా   టి   టీ   టు   టూ   టృ   టౄ   టౢ   టౣ   టె   టే   టై   టొ   టో   టౌ   టఁ   టం   టః   ట్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ట   టా   టి   టీ   టు   టూ   టృ   టౄ   టౢ   టౣ   టె   టే   టై   టొ   టో   టౌ   టఁ   టం   టః   ట్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ట గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -539,16 +548,17 @@
 													"orderNumber": "13",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఠ   ఠా   ఠి   ఠీ   ఠు   ఠూ   ఠృ   ఠౄ   ఠౢ   ఠౣ   ఠె   ఠే   ఠై   ఠొ   ఠో   ఠౌ   ఠఁ   ఠం   ఠః   ఠ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఠ   ఠా   ఠి   ఠీ   ఠు   ఠూ   ఠృ   ఠౄ   ఠౢ   ఠౣ   ఠె   ఠే   ఠై   ఠొ   ఠో   ఠౌ   ఠఁ   ఠం   ఠః   ఠ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఠ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -562,16 +572,17 @@
 													"orderNumber": "14",
 													"destinationViewData": {
 														"content": [
-															[
-																"డ   డా   డి   డీ   డు   డూ   డృ   డౄ   డౢ   డౣ   డె   డే   డై   డొ   డో   డౌ   డఁ   డం   డః   డ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"డ   డా   డి   డీ   డు   డూ   డృ   డౄ   డౢ   డౣ   డె   డే   డై   డొ   డో   డౌ   డఁ   డం   డః   డ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "డ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -585,16 +596,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఢ   ఢా   ఢి   ఢీ   ఢు   ఢూ   ఢృ   ఢౄ   ఢౢ   ఢౣ   ఢె   ఢే   ఢై   ఢొ   ఢో   ఢౌ   ఢఁ   ఢం   ఢః   ఢ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఢ   ఢా   ఢి   ఢీ   ఢు   ఢూ   ఢృ   ఢౄ   ఢౢ   ఢౣ   ఢె   ఢే   ఢై   ఢొ   ఢో   ఢౌ   ఢఁ   ఢం   ఢః   ఢ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఢ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -608,16 +620,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ణ   ణా   ణి   ణీ   ణు   ణూ   ణృ   ణౄ   ణౢ   ణౣ   ణె   ణే   ణై   ణొ   ణో   ణౌ   ణఁ   ణం   ణః   ణ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ణ   ణా   ణి   ణీ   ణు   ణూ   ణృ   ణౄ   ణౢ   ణౣ   ణె   ణే   ణై   ణొ   ణో   ణౌ   ణఁ   ణం   ణః   ణ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ణ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -631,16 +644,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"త   తా   తి   తీ   తు   తూ   తృ   తౄ   తౢ   తౣ   తె   తే   తై   తొ   తో   తౌ   తఁ   తం   తః   త్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"త   తా   తి   తీ   తు   తూ   తృ   తౄ   తౢ   తౣ   తె   తే   తై   తొ   తో   తౌ   తఁ   తం   తః   త్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "త గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -654,16 +668,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"థ   థా   థి   థీ   థు   థూ   థృ   థౄ   థౢ   థౣ   థె   థే   థై   థొ   థో   థౌ   థఁ   థం   థః   థ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"థ   థా   థి   థీ   థు   థూ   థృ   థౄ   థౢ   థౣ   థె   థే   థై   థొ   థో   థౌ   థఁ   థం   థః   థ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "థ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -677,16 +692,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ద   దా   ది   దీ   దు   దూ   దృ   దౄ   దౢ   దౣ   దె   దే   దై   దొ   దో   దౌ   దఁ   దం   దః   ద్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ద   దా   ది   దీ   దు   దూ   దృ   దౄ   దౢ   దౣ   దె   దే   దై   దొ   దో   దౌ   దఁ   దం   దః   ద్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ద గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -700,16 +716,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ధ   ధా   ధి   ధీ   ధు   ధూ   ధృ   ధౄ   ధౢ   ధౣ   ధె   ధే   ధై   ధొ   ధో   ధౌ   ధఁ   ధం   ధః   ధ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ధ   ధా   ధి   ధీ   ధు   ధూ   ధృ   ధౄ   ధౢ   ధౣ   ధె   ధే   ధై   ధొ   ధో   ధౌ   ధఁ   ధం   ధః   ధ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ధ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -723,16 +740,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"న   నా   ని   నీ   ను   నూ   నృ   నౄ   నౢ   నౣ   నె   నే   నై   నొ   నో   నౌ   నఁ   నం   నః   న్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"న   నా   ని   నీ   ను   నూ   నృ   నౄ   నౢ   నౣ   నె   నే   నై   నొ   నో   నౌ   నఁ   నం   నః   న్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "న గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -746,16 +764,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ప   పా   పి   పీ   పు   పూ   పృ   పౄ   పౢ   పౣ   పె   పే   పై   పొ   పో   పౌ   పఁ   పం   పః   ప్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ప   పా   పి   పీ   పు   పూ   పృ   పౄ   పౢ   పౣ   పె   పే   పై   పొ   పో   పౌ   పఁ   పం   పః   ప్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ప గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -769,16 +788,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఫ   ఫా   ఫి   ఫీ   ఫు   ఫూ   ఫృ   ఫౄ   ఫౢ   ఫౣ   ఫె   ఫే   ఫై   ఫొ   ఫో   ఫౌ   ఫఁ   ఫం   ఫః   ఫ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఫ   ఫా   ఫి   ఫీ   ఫు   ఫూ   ఫృ   ఫౄ   ఫౢ   ఫౣ   ఫె   ఫే   ఫై   ఫొ   ఫో   ఫౌ   ఫఁ   ఫం   ఫః   ఫ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఫ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -792,16 +812,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"బ   బా   బి   బీ   బు   బూ   బృ   బౄ   బౢ   బౣ   బె   బే   బై   బొ   బో   బౌ   బఁ   బం   బః   బ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"బ   బా   బి   బీ   బు   బూ   బృ   బౄ   బౢ   బౣ   బె   బే   బై   బొ   బో   బౌ   బఁ   బం   బః   బ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "బ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -815,16 +836,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"భ   భా   భి   భీ   భు   భూ   భృ   భౄ   భౢ   భౣ   భె   భే   భై   భొ   భో   భౌ   భఁ   భం   భః   భ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"భ   భా   భి   భీ   భు   భూ   భృ   భౄ   భౢ   భౣ   భె   భే   భై   భొ   భో   భౌ   భఁ   భం   భః   భ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "భ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -838,16 +860,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"మ   మా   మి   మీ   ము   మూ   మృ   మౄ   మౢ   మౣ   మె   మే   మై   మొ   మో   మౌ   మఁ   మం   మః   మ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"మ   మా   మి   మీ   ము   మూ   మృ   మౄ   మౢ   మౣ   మె   మే   మై   మొ   మో   మౌ   మఁ   మం   మః   మ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "మ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -861,16 +884,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"య   యా   యి   యీ   యు   యూ   యృ   యౄ   యౢ   యౣ   యె   యే   యై   యొ   యో   యౌ   యఁ   యం   యః   య్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"య   యా   యి   యీ   యు   యూ   యృ   యౄ   యౢ   యౣ   యె   యే   యై   యొ   యో   యౌ   యఁ   యం   యః   య్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "య గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -884,16 +908,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ర   రా   రి   రీ   రు   రూ   రృ   రౄ   రౢ   రౣ   రె   రే   రై   రొ   రో   రౌ   రఁ   రం   రః   ర్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ర   రా   రి   రీ   రు   రూ   రృ   రౄ   రౢ   రౣ   రె   రే   రై   రొ   రో   రౌ   రఁ   రం   రః   ర్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ర గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -907,16 +932,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ల   లా   లి   లీ   లు   లూ   లృ   లౄ   లౢ   లౣ   లె   లే   లై   లొ   లో   లౌ   లఁ   లం   లః   ల్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ల   లా   లి   లీ   లు   లూ   లృ   లౄ   లౢ   లౣ   లె   లే   లై   లొ   లో   లౌ   లఁ   లం   లః   ల్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ల గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -930,16 +956,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"వ   వా   వి   వీ   వు   వూ   వృ   వౄ   వౢ   వౣ   వె   వే   వై   వొ   వో   వౌ   వఁ   వం   వః   వ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"వ   వా   వి   వీ   వు   వూ   వృ   వౄ   వౢ   వౣ   వె   వే   వై   వొ   వో   వౌ   వఁ   వం   వః   వ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "వ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -953,16 +980,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"శ   శా   శి   శీ   శు   శూ   శృ   శౄ   శౢ   శౣ   శె   శే   శై   శొ   శో   శౌ   శఁ   శం   శః   శ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"శ   శా   శి   శీ   శు   శూ   శృ   శౄ   శౢ   శౣ   శె   శే   శై   శొ   శో   శౌ   శఁ   శం   శః   శ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "శ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -976,16 +1004,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ష   షా   షి   షీ   షు   షూ   షృ   షౄ   షౢ   షౣ   షె   షే   షై   షొ   షో   షౌ   షఁ   షం   షః   ష్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ష   షా   షి   షీ   షు   షూ   షృ   షౄ   షౢ   షౣ   షె   షే   షై   షొ   షో   షౌ   షఁ   షం   షః   ష్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ష గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -999,16 +1028,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"స   సా   సి   సీ   సు   సూ   సృ   సౄ   సౢ   సౣ   సె   సే   సై   సొ   సో   సౌ   సఁ   సం   సః   స్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"స   సా   సి   సీ   సు   సూ   సృ   సౄ   సౢ   సౣ   సె   సే   సై   సొ   సో   సౌ   సఁ   సం   సః   స్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "స గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -1022,16 +1052,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"హ   హా   హి   హీ   హు   హూ   హృ   హౄ   హౢ   హౣ   హె   హే   హై   హొ   హో   హౌ   హఁ   హం   హః   హ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"హ   హా   హి   హీ   హు   హూ   హృ   హౄ   హౢ   హౣ   హె   హే   హై   హొ   హో   హౌ   హఁ   హం   హః   హ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "హ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -1045,16 +1076,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ళ   ళా   ళి   ళీ   ళు   ళూ   ళృ   ళౄ   ళౢ   ళౣ   ళె   ళే   ళై   ళొ   ళో   ళౌ   ళఁ   ళం   ళః   ళ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ళ   ళా   ళి   ళీ   ళు   ళూ   ళృ   ళౄ   ళౢ   ళౣ   ళె   ళే   ళై   ళొ   ళో   ళౌ   ళఁ   ళం   ళః   ళ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ళ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -1068,16 +1100,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"క్ష   క్షా   క్షి   క్షీ   క్షు   క్షూ   క్షృ   క్షౄ   క్షౢ   క్షౣ   క్షె   క్షే   క్షై   క్షొ   క్షో   క్షౌ   క్షఁ   క్షం   క్షః   క్ష్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"క్ష   క్షా   క్షి   క్షీ   క్షు   క్షూ   క్షృ   క్షౄ   క్షౢ   క్షౣ   క్షె   క్షే   క్షై   క్షొ   క్షో   క్షౌ   క్షఁ   క్షం   క్షః   క్ష్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "క్ష గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -1091,16 +1124,17 @@
 													"orderNumber": "15",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఱ   ఱా   ఱి   ఱీ   ఱు   ఱూ   ఱృ   ఱౄ   ఱౢ   ఱౣ   ఱె   ఱే   ఱై   ఱొ   ఱో   ఱౌ   ఱఁ   ఱం   ఱః   ఱ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఱ   ఱా   ఱి   ఱీ   ఱు   ఱూ   ఱృ   ఱౄ   ఱౢ   ఱౣ   ఱె   ఱే   ఱై   ఱొ   ఱో   ఱౌ   ఱఁ   ఱం   ఱః   ఱ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఱ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
