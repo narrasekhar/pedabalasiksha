@@ -162,7 +162,7 @@
 									"content": [
 										{
 											"contentImageUrl": "",
-											"contentTitle": "",
+											"contentTitle": "స్పర్శములు",
 											"content": [
 												[
 													"క   ఖ   గ   ఘ   ఙ", "క వర్గం"
@@ -178,7 +178,13 @@
 												],
 												[
 													"ప   ఫ   బ   భ   మ", "ప వర్గం"
-												],
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "మిగిలినవి",
+											"content": [
 												[
 													"య   ర   ల   వ", "అంతస్థములు"
 												],
