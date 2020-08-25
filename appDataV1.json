@@ -165,19 +165,24 @@
 											"contentTitle": "స్పర్శములు",
 											"content": [
 												[
-													"క   ఖ   గ   ఘ   ఙ", "క వర్గం"
+													"క   ఖ   గ   ఘ   ఙ",
+													"క వర్గం"
 												],
 												[
-													"చ   ౘ   ఛ   జ   ౙ   ఝ   ఞ", "చ వర్గం"
+													"చ   ౘ   ఛ   జ   ౙ   ఝ   ఞ",
+													"చ వర్గం"
 												],
 												[
-													"ట   ఠ   డ   ఢ   ణ", "ట వర్గం"
+													"ట   ఠ   డ   ఢ   ణ",
+													"ట వర్గం"
 												],
 												[
-													"త   థ   ద   ధ   న", "త వర్గం"
+													"త   థ   ద   ధ   న",
+													"త వర్గం"
 												],
 												[
-													"ప   ఫ   బ   భ   మ", "ప వర్గం"
+													"ప   ఫ   బ   భ   మ",
+													"ప వర్గం"
 												]
 											]
 										},
@@ -186,10 +191,12 @@
 											"contentTitle": "మిగిలినవి",
 											"content": [
 												[
-													"య   ర   ల   వ", "అంతస్థములు"
+													"య   ర   ల   వ",
+													"అంతస్థములు"
 												],
 												[
-													"శ   ష   స   హ", "ఊష్మములు"
+													"శ   ష   స   హ",
+													"ఊష్మములు"
 												],
 												[
 													"ళ   క్ష   ఱ"
@@ -207,19 +214,24 @@
 											"contentTitle": "విభాగములు",
 											"content": [
 												[
-													"పరుషములు", "క   చ   ట   త   ప"
+													"పరుషములు",
+													"క   చ   ట   త   ప"
 												],
 												[
-													"సరళములు", "గ   జ   డ   ద   బ"
+													"సరళములు",
+													"గ   జ   డ   ద   బ"
 												],
 												[
-													"ద్రుతము", "న"
+													"ద్రుతము",
+													"న"
 												],
 												[
-													"స్థిరములు", "ఖ   ఛ   ఠ   థ   ఫ\nఘ   ఝ   ఢ   ధ   భ"
+													"స్థిరములు",
+													"ఖ   ఛ   ఠ   థ   ఫ\nఘ   ఝ   ఢ   ధ   భ"
 												],
 												[
-													"అనునాసికములు", "ఙ   ఞ   ణ   న   మ"
+													"అనునాసికములు",
+													"ఙ   ఞ   ణ   న   మ"
 												]
 											]
 										},
@@ -1483,188 +1495,206 @@
 								}
 							},
 							{
-								"title": "ఇంగ్లీష్ అక్షరాలు",
-								"subTitle": "English Aksharalu",
-								"clipArt": "iachulu",
+								"title": "ఇతర అక్షరాలు",
+								"subTitle": "Etara Aksharalu",
+								"clipArt": "iaksharalu",
 								"orderNumber": "1",
 								"destinationViewData": {
-									"content": [
-										{
-											"contentImageUrl": "",
-											"contentTitle": "",
-											"content": [
-												[
-													"A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z"
-												],
-												[
-													""
-												],
-												[
-													"a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z"
-												],
-												[
-													"ఇంగ్లీష్ అక్షరాలు మొత్తం ఇరవై ఆరు(26)"
-												]
-											]
-										},
-										{
-											"contentImageUrl": "",
-											"contentTitle": "పద ప్రయోగం",
-											"content": [
-												[
-													"A → ",
-													"Apple"
-												],
-												[
-													"B → ",
-													"Ball"
-												],
-												[
-													"C → ",
-													"Cat"
-												],
-												[
-													"D → ",
-													"Dog"
-												],
-												[
-													"E → ",
-													"Egg"
-												],
-												[
-													"F → ",
-													"Fan"
-												],
-												[
-													"G → ",
-													"Goat"
-												],
-												[
-													"H → ",
-													"Hat"
-												],
-												[
-													"I → ",
-													"Ink"
-												],
-												[
-													"J → ",
-													"Jar"
-												],
-												[
-													"K → ",
-													"King"
-												],
-												[
-													"L → ",
-													"Lion"
-												],
-												[
-													"M → ",
-													"Monkey"
-												],
-												[
-													"N → ",
-													"Net"
-												],
-												[
-													"O → ",
-													"Owl"
-												],
-												[
-													"P → ",
-													"Pot"
-												],
-												[
-													"Q → ",
-													"Queen"
-												],
-												[
-													"R → ",
-													"Rabbit"
-												],
-												[
-													"S → ",
-													"Sun"
-												],
-												[
-													"T → ",
-													"Tiger"
-												],
-												[
-													"U → ",
-													"Umbrella"
-												],
-												[
-													"V → ",
-													"Violin"
-												],
-												[
-													"W → ",
-													"Watch"
-												],
-												[
-													"X → ",
-													"X-Ray"
-												],
-												[
-													"Y → ",
-													"Yatch"
-												],
-												[
-													"Z → ",
-													"Zebra"
-												]
+									"content": [],
+									"pageTitle": "",
+									"lessons": {
+										"listType": "",
+										"lessonsPageRowModel": {
+											"mainTitle": "గుణింతాలు",
+											"data": [
+												{
+													"title": "ఇంగ్లీష్ అక్షరాలు",
+													"subTitle": "English Aksharalu",
+													"clipArt": "iachulu",
+													"orderNumber": "1",
+													"destinationViewData": {
+														"content": [
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"A   B   C   D   E   F   G   H   I   J   K   L   M   N   O   P   Q   R   S   T   U   V   W   X   Y   Z"
+																	],
+																	[
+																		""
+																	],
+																	[
+																		"a   b   c   d   e   f   g   h   i   j   k   l   m   n   o   p   q   r   s   t   u   v   w   x   y   z"
+																	],
+																	[
+																		"ఇంగ్లీష్ అక్షరాలు మొత్తం ఇరవై ఆరు(26)"
+																	]
+																]
+															},
+															{
+																"contentImageUrl": "",
+																"contentTitle": "పద ప్రయోగం",
+																"content": [
+																	[
+																		"A → ",
+																		"Apple"
+																	],
+																	[
+																		"B → ",
+																		"Ball"
+																	],
+																	[
+																		"C → ",
+																		"Cat"
+																	],
+																	[
+																		"D → ",
+																		"Dog"
+																	],
+																	[
+																		"E → ",
+																		"Egg"
+																	],
+																	[
+																		"F → ",
+																		"Fan"
+																	],
+																	[
+																		"G → ",
+																		"Goat"
+																	],
+																	[
+																		"H → ",
+																		"Hat"
+																	],
+																	[
+																		"I → ",
+																		"Ink"
+																	],
+																	[
+																		"J → ",
+																		"Jar"
+																	],
+																	[
+																		"K → ",
+																		"King"
+																	],
+																	[
+																		"L → ",
+																		"Lion"
+																	],
+																	[
+																		"M → ",
+																		"Monkey"
+																	],
+																	[
+																		"N → ",
+																		"Net"
+																	],
+																	[
+																		"O → ",
+																		"Owl"
+																	],
+																	[
+																		"P → ",
+																		"Pot"
+																	],
+																	[
+																		"Q → ",
+																		"Queen"
+																	],
+																	[
+																		"R → ",
+																		"Rabbit"
+																	],
+																	[
+																		"S → ",
+																		"Sun"
+																	],
+																	[
+																		"T → ",
+																		"Tiger"
+																	],
+																	[
+																		"U → ",
+																		"Umbrella"
+																	],
+																	[
+																		"V → ",
+																		"Violin"
+																	],
+																	[
+																		"W → ",
+																		"Watch"
+																	],
+																	[
+																		"X → ",
+																		"X-Ray"
+																	],
+																	[
+																		"Y → ",
+																		"Yatch"
+																	],
+																	[
+																		"Z → ",
+																		"Zebra"
+																	]
+																]
+															}
+														],
+														"pageTitle": "ఇంగ్లీష్ అక్షరాలు",
+														"lessons": {}
+													}
+												},
+												{
+													"title": "హిందీ అక్షరాలు",
+													"subTitle": "Hindi Aksharalu",
+													"clipArt": "iachulu",
+													"orderNumber": "1",
+													"destinationViewData": {
+														"content": [
+															{
+																"contentImageUrl": "",
+																"contentTitle": "स्वर",
+																"content": [
+																	[
+																		"अ   आ   इ   ई   उ   ऊ   ऋ   ॠ   ऌ   ॡ   ए   ऐ   ओ  औ   अं   अः   ॲ   ऑ"
+																	]
+																]
+															},
+															{
+																"contentImageUrl": "",
+																"contentTitle": "व्यंजन",
+																"content": [
+																	[
+																		"क   ख   ग   घ   ङ"
+																	],
+																	[
+																		"च   छ   ज   झ   ञा"
+																	],
+																	[
+																		"ट   ठ   ड   ढ   ण"
+																	],
+																	[
+																		"त   थ   द   ध   न"
+																	],
+																	[
+																		"प   फ   ब   भ   म"
+																	],
+																	[
+																		"य   र   ल   व   श   ष   स   ह   क्ष   त्र   ज्ञ"
+																	]
+																]
+															}
+														],
+														"pageTitle": "హిందీ అక్షరాలు",
+														"lessons": {}
+													}
+												}
 											]
 										}
-									],
-									"pageTitle": "ఇంగ్లీష్ అక్షరాలు",
-									"lessons": {}
-								}
-							},
-							{
-								"title": "హిందీ అక్షరాలు",
-								"subTitle": "Hindi Aksharalu",
-								"clipArt": "iachulu",
-								"orderNumber": "1",
-								"destinationViewData": {
-									"content": [
-										{
-											"contentImageUrl": "",
-											"contentTitle": "स्वर",
-											"content": [
-												[
-													"अ   आ   इ   ई   उ   ऊ   ऋ   ॠ   ऌ   ॡ   ए   ऐ   ओ  औ   अं   अः   ॲ   ऑ"
-												]
-											]
-										},
-										{
-											"contentImageUrl": "",
-											"contentTitle": "व्यंजन",
-											"content": [
-												[
-													"क   ख   ग   घ   ङ"
-												],
-												[
-													"च   छ   ज   झ   ञा"
-												],
-												[
-													"ट   ठ   ड   ढ   ण"
-												],
-												[
-													"त   थ   द   ध   न"
-												],
-												[
-													"प   फ   ब   भ   म"
-												],
-												[
-													"य   र   ल   व   श   ष   स   ह   क्ष   त्र   ज्ञ"
-												]
-											]
-										}
-									],
-									"pageTitle": "హిందీ అక్షరాలు",
-									"lessons": {}
+									}
 								}
 							}
 						]
