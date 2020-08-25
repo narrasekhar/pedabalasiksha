@@ -284,16 +284,17 @@
 													"orderNumber": "2",
 													"destinationViewData": {
 														"content": [
-															[
-																"క   కా   కి   కీ   కు   కూ   కృ   కౄ   కౢ   కౣ   కె   కే   కై   కొ   కో   కౌ   కఁ   కం   కః క్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"క   కా   కి   కీ   కు   కూ   కృ   కౄ   కౢ   కౣ   కె   కే   కై   కొ   కో   కౌ   కఁ   కం   కః క్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "క గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
@@ -307,16 +308,17 @@
 													"orderNumber": "3",
 													"destinationViewData": {
 														"content": [
-															[
-																"ఖ   ఖా   ఖి   ఖీ   ఖు   ఖూ   ఖృ   ఖౄ   ఖౢ   ఖౣ   ఖె   ఖే   ఖై   ఖొ   ఖో   ఖౌ   ఖఁ   ఖం   ఖః   ఖ్"
-															]
+															{
+																"contentImageUrl": "",
+																"contentTitle": "",
+																"content": [
+																	[
+																		"ఖ   ఖా   ఖి   ఖీ   ఖు   ఖూ   ఖృ   ఖౄ   ఖౢ   ఖౣ   ఖె   ఖే   ఖై   ఖొ   ఖో   ఖౌ   ఖఁ   ఖం   ఖః   ఖ్"
+																	]
+																]
+															}
 														],
 														"pageTitle": "ఖ గుణింతం",
-														"contentMeaning": [
-															[]
-														],
-														"contentMeaningTitle": "",
-														"contentImageUrl": "",
 														"lessons": {
 															"listType": "",
 															"lessonsPageRowModel": {}
