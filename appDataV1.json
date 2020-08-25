@@ -1495,7 +1495,7 @@
 								}
 							},
 							{
-								"title": "ఇతర అక్షరాలు",
+								"title": "ఇతర భాష అక్షరాలు",
 								"subTitle": "Etara Aksharalu",
 								"clipArt": "iaksharalu",
 								"orderNumber": "1",
@@ -1505,7 +1505,7 @@
 									"lessons": {
 										"listType": "",
 										"lessonsPageRowModel": {
-											"mainTitle": "గుణింతాలు",
+											"mainTitle": "ఇతర భాష అక్షరాలు",
 											"data": [
 												{
 													"title": "ఇంగ్లీష్ అక్షరాలు",
