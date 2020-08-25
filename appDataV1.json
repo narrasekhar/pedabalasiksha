@@ -1631,14 +1631,17 @@
 									"content": [
 										{
 											"contentImageUrl": "",
-											"contentTitle": "",
+											"contentTitle": "स्वर",
 											"content": [
 												[
 													"अ   आ   इ   ई   उ   ऊ   ऋ   ॠ   ऌ   ॡ   ए   ऐ   ओ  औ   अं   अः   ॲ   ऑ"
-												],
-												[
-													""
-												],
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "व्यंजन",
+											"content": [
 												[
 													"क   ख   ग   घ   ङ"
 												],
