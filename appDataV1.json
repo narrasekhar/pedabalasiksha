@@ -1809,7 +1809,7 @@
 		},
 		{
 			"title": "గణితం",
-			"subTitle": "Achulu",
+			"subTitle": "Ganitam",
 			"clipArt": "iachulu",
 			"orderNumber": "1",
 			"destinationViewData": {
@@ -2181,6 +2181,56 @@
 											]
 										}
 									}
+								}
+							}
+						]
+					}
+				}
+			}
+		},
+		{
+			"title": "జికే",
+			"subTitle": "General Knowledge",
+			"clipArt": "iGK",
+			"orderNumber": "3",
+			"destinationViewData": {
+				"content": [
+					[]
+				],
+				"pageTitle": "",
+				"lessons": {
+					"listType": "",
+					"lessonsPageRowModel": {
+						"mainTitle": "జికే",
+						"data": [
+							{
+								"title": "దిక్కులు ",
+								"subTitle": "Dikkulu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"తూర్పు"
+												],
+												[
+													"దక్షిణం"
+												],
+												[
+													"పడమర"
+												],
+												[
+													"ఉత్తరం"
+												]
+											]
+										}
+									],
+									"pageTitle": "దిక్కులు ",
+									"lessons": {}
 								}
 							}
 						]
