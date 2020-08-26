@@ -2259,7 +2259,7 @@
 							},
 							{
 								"title": "మూలలు  ",
-								"subTitle": "Dikkulu",
+								"subTitle": "Mulalu",
 								"clipArt": "iDikkulu",
 								"orderNumber": "1",
 								"destinationViewData": {
@@ -2494,6 +2494,72 @@
 										}
 									],
 									"pageTitle": "పంచేంద్రియాలు",
+									"lessons": {}
+								}
+							},
+							{
+								"title": "లలిత కళలు",
+								"subTitle": "Lalita Kalalu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"లలిత కళలు - ఐదు; చిత్రలేఖనము, శిల్పము, సంగీతము, నృత్యము, కవిత్వము"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "చిత్రలేఖనము",
+											"content": [
+												[
+													"చిత్రకారుడు తాను చూసిన వస్తువును కానీ లేక ప్రదేశమును కానీ చిత్రించును. చిత్రలేఖనమున కుంచెకు ఎంతో ప్రాధాన్యము వుంది"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "శిల్పము",
+											"content": [
+												[
+													"శిల్పం అంటే చెక్కిన లేక పోతపోసిన ప్రతిమ"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "సంగీతము",
+											"content": [
+												[
+													"శబ్దాన్ని కాలంతో మేళవించి వినసొంపుగా మార్చే విలక్షణమైన ప్రక్రియ"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "నృత్యము",
+											"content": [
+												[
+													"లయబద్ధ సంగీతానికి, శరీరం లయబద్ధంగా కదలడం"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "కావ్యము",
+											"content": [
+												[
+													"కల్పితము గానీ,కల్పితము కానిది గానీ విషయాన్ని వస్తువుగా తీసుకుని అష్టాదశ వర్ణనలలో జనరంజకంగా రాసే ప్రక్రియను "కావ్యము" అంటారు"
+												]
+											]
+										}
+									],
+									"pageTitle": "లలిత కళలు",
 									"lessons": {}
 								}
 							}
