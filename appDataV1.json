@@ -2316,7 +2316,7 @@
 							},
 							{
 								"title": "వేదాలు   ",
-								"subTitle": "Dikkulu",
+								"subTitle": "Vedalu",
 								"clipArt": "iDikkulu",
 								"orderNumber": "1",
 								"destinationViewData": {
@@ -2377,6 +2377,123 @@
 										}
 									],
 									"pageTitle": "వేదాలు   ",
+									"lessons": {}
+								}
+							},
+							{
+								"title": "పురుషార్థాలు",
+								"subTitle": "Purushardalu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"పురుషార్ధాలు అంటే వ్యక్తికి 'కావలసినవి"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "ధర్మము",
+											"content": [
+												[
+													"మత లేక సామాజిక నియమాలకు కట్టుబడి జీవించడము"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "అర్థము",
+											"content": [
+												[
+													"ధన సంపాదన, కీర్తి"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "కామము",
+											"content": [
+												[
+													"శారీరక లేక ఇంద్రియ లేక లౌకిక సుఖాలు"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "మోక్షము",
+											"content": [
+												[
+													"పునర్జన్మ రాహిత్యము లేక సంసారచక్రము నుండి విడుదల"
+												]
+											]
+										}
+									],
+									"pageTitle": "పురుషార్థాలు",
+									"lessons": {}
+								}
+							},
+							{
+								"title": "పంచభూతాలు",
+								"subTitle": "Pancha Bhutalu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"భూమి, ఆకాశము, వాయువు, జలము, అగ్ని"
+												]
+											]
+										}
+									],
+									"pageTitle": "పంచభూతాలు",
+									"lessons": {}
+								}
+							},
+							{
+								"title": "పంచేంద్రియాలు",
+								"subTitle": "Pancha Indriyalu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"ఇంద్రియాలు - ఐదు; వాటిలో కర్మేంద్రియాలు, జ్ఞానేంద్రియాలు అని రెండు విధాలు"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "జ్ఞానేంద్రియాలు",
+											"content": [
+												[
+													"చర్మం, కన్ను, నాలుక, చెవి, ముక్కు"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "కర్మేంద్రియాలు",
+											"content": [
+												[
+													"వాక్కు, చెయ్యి, పాదం, పాయువు, ఉపస్థ"
+												]
+											]
+										}
+									],
+									"pageTitle": "పంచేంద్రియాలు",
 									"lessons": {}
 								}
 							}
