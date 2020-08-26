@@ -2189,7 +2189,7 @@
 			}
 		},
 		{
-			"title": "జికే",
+			"title": "విజ్ఞానం",
 			"subTitle": "General Knowledge",
 			"clipArt": "iGK",
 			"orderNumber": "3",
@@ -2201,7 +2201,7 @@
 				"lessons": {
 					"listType": "",
 					"lessonsPageRowModel": {
-						"mainTitle": "జికే",
+						"mainTitle": "విజ్ఞానం",
 						"data": [
 							{
 								"title": "దిక్కులు ",
@@ -2254,6 +2254,63 @@
 										}
 									],
 									"pageTitle": "దిక్కులు ",
+									"lessons": {}
+								}
+							},
+							{
+								"title": "మూలలు  ",
+								"subTitle": "Dikkulu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "ఆగ్నేయం",
+											"content": [
+												[
+													"1. తూర్పుకి దక్షిణానికి మధ్య ఉన్న దిక్కు"
+												],
+												[
+													"2. వాస్తు శాస్త్రం ప్రకారం వంటగది ఆగ్నేయ దిశలో ఉండాలి"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "నైరుతి",
+											"content": [
+												[
+													"1. దక్షిణదిక్కుకు,పడమటిదిక్కునకు మధ్యనున్న దిక్కు"
+												],
+												[
+													"2. హిందూ పురాణాన ప్రకారం ఈ దిశ నిరృతి అనే ఒక రాక్షసుడి సొంతం అని తెలుస్తుంది"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "వాయువ్యం",
+											"content": [
+												[
+													"1. ఉత్తరానికి, పశ్చిమానికి మధ్యన ఉన్న దిక్కు.వాయువ్యం"
+												]
+											]
+										},
+										{
+											"contentImageUrl": "",
+											"contentTitle": "ఈశాన్యం",
+											"content": [
+												[
+													"1. తూర్పుకి, ఉత్తరానికి మధ్యన ఉన్న ఒక దిక్కు"
+												],
+												[
+													"2. వాస్తు శాస్త్రం ప్రకారం ఈశాన్యం భాగం ఈక బరువును కూడా మోయ కూడదు "
+												]
+											]
+										}
+									],
+									"pageTitle": "మూలలు  ",
 									"lessons": {}
 								}
 							}
