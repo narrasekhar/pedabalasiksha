@@ -2628,6 +2628,27 @@
 									"pageTitle": "పంచగంగలు ",
 									"lessons": {}
 								}
+							},
+							{
+								"title": "పంచోపచారాలు  ",
+								"subTitle": "Pancha Gangalu",
+								"clipArt": "iDikkulu",
+								"orderNumber": "1",
+								"destinationViewData": {
+									"content": [
+										{
+											"contentImageUrl": "",
+											"contentTitle": "",
+											"content": [
+												[
+													"స్నానం, పూజ, నైవేద్యం, ప్రదక్షిణం, నమస్కారం"
+												]
+											]
+										}
+									],
+									"pageTitle": "పంచోపచారాలు  ",
+									"lessons": {}
+								}
 							}
 						]
 					}
